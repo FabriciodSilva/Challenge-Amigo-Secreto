@@ -20,7 +20,7 @@ O Sorteio de Amigo Secreto é um jogo simples e divertido para sortear participa
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/Challenge-Amigo-Secreto.git
+   git clone https://github.com/FabriciodSilva/Challenge-Amigo-Secreto.git
    ```
 
 ## Contribuição
